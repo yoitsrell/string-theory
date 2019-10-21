@@ -1,3 +1,5 @@
-# String Theory Solution
+# String Theory
 
-A solution to the [String Theory](https://github.com/ci-wdi-900/string-theory) exercise.
+The tests should be self-explanatory, and the only rule is that you cannot use `.split` for these challenges.
+
+`npm install && npm test`
